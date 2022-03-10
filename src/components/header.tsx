@@ -4,7 +4,7 @@ class Header extends React.Component{
 render(){
     return(
         <div>
-            this is header kkfjfkjf
+            this is header and we need to add a new component
         </div>
     )
 }
